@@ -6,6 +6,10 @@ A Python-based project that reads data incrementally from Excel files without us
 
 ---
 
+## 🖼️ UI Screenshot
+
+![UI Screenshot](frontface.png)
+
 ## 🚀 Features
 
 - ✅ **Incremental data loading** - remembers the last read row and resumes from there
